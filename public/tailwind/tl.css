@@ -1,0 +1,19 @@
+@import url(../css/swiper.css);
+@import url(../css/swiperH.css);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    @font-face {
+        font-family: gothic;
+        src: url("../font/franklin-gothic-urw-book.otf");
+    }
+
+    body {
+        font-family: "gothic", "Poppins",  sans-serif;
+      }
+
+}

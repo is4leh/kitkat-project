@@ -1,0 +1,207 @@
+{
+"menu":[
+{"id":1 ,"name":"NEWS" , "href":"https://www.kitkat.com/latest-news"},
+{"id":2 ,"name":"ABOUT" , "href":"https://www.kitkat.com/kitkat-history"},
+{"id":3 ,"name":"CAMPAIGNS" , "href":"https://www.kitkat.com/campaigns"},
+{"id":4 ,"name":"CONTACT US" , "href":"https://www.kitkat.com/contact"},
+{"id":5 ,"name":"FORMULA 1" , "href":"https://www.kitkat.com/formula1"}],
+
+
+
+"product":[
+    {
+        "id": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "#kitkat #chocolate",
+        "image": "./asset/p1.jpg"
+      },
+
+      {
+        "id": 2,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "New Year, same breaks ✌️",
+        "image": "./asset/p2.jfif"
+      },
+     
+      {
+        "id": 3,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "A vegan treat that hits the sweet spot! 🌿🍫 #VeganEats #vegankitkat #veganchocolate #vegantreats",
+        "image": "./asset/p3.jfif"
+      },
+
+      
+      {
+        "id":4,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "Hands up if KitKat® Chunky is your favourite! 🙋🙋🙋",
+        "image": "./asset/p4.jpg"
+      },
+
+      
+      {
+        "id":5,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "Look what MW #packed for me to go to the High Court today! #Kitkat 😍😊 #KitkatBreak #HaveABreak",
+        "image": "./asset/p5.jpg"
+      },
+
+      
+      {
+        "id":6,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "One for you, three for me 😏🍫",
+        "image": "./asset/p6.jpg"
+      },
+
+      
+      {
+        "id":7,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "😍😍😍 #vegankitkats #mybreak",
+        "image": "./asset/p7.jpg"
+      },
+
+      
+      {
+        "id":8,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "I purchased this #vegan kitkat at London s Heathrow Airport. The dark #chocolate taste was a happy surprise. nestle",
+        "image": "./asset/p8.jpg"
+      },
+
+      
+      {
+        "id":9,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "My friend gave me this one so excited to give it a try 😍 #foodies #food #snacks #snacksuk #kitkat #chocolate #brownie #nestle",
+        "image": "./asset/p9.jpg"
+      },
+
+      
+      {
+        "id":10,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description": "Thank you GWR for the Vegan Croissant and Vegan KitKat 💗",
+        "image": "./asset/p10.jpg"
+      } ,
+
+      {
+        "id":11,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"#kitkat #chocolate",
+        "image":"./asset/p11.jpg"
+        
+      },
+      
+      {
+        "id":12,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"Nice little delivery arrived just in time for my 11am break today ☕️ - Thanks nestleuki for the chocolate and for being sound to the communities and farmers that provide your cocoa -",
+        "image":"./asset/p12.jpg"
+        
+      },
+      
+      {
+        "id":13,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"KIT KAT CHUNKY CRUNCHY DOUBLE CHOCOLATE NOW IN sparuk 🍫🍫🍫 #kitkat #kitkatchunky #newfoods #newfoodsuk #newfoodfinds #newfoodspotteruk #sparuk",
+        "image":"./asset/p13.jpg"
+        
+      },
+      
+      {
+        "id":14,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"Here’s a picture of some KitKat® chocolate wafers to celebrate Chocolate Wafer Day! 🍫 🥳 (Yes it really is a real day!)",
+        "image":"./asset/p14.jpg"
+        
+      },
+
+      
+      {
+        "id":15,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"Anyone out there who bites straight into their KitKat®? This one’s for you! 🍫🍫",
+        "image":"./asset/p15.webp"
+        
+      },
+      
+      {
+        "id":16,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"It’s time for another satisfying break video 🤤🍫☕️",
+        "image":"./asset/p16.jpg"
+
+      },
+      
+      {
+        "id":17,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"Rate our break in the comments 👇 Today we're having a KitKat® Chunky Peanut Butter with a strong cuppa 🍫 🥜 ☕",
+        "image":"./asset/p17.jpg"
+        
+      },
+
+      
+      {
+        "id":18,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"Have a Break.... #kitkat",
+        "image":"./asset/p18.jfif"
+        
+      },
+      
+      {
+        "id":19,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"Do love a kitkat #orlakiely #kitkat",
+        "image":"./asset/p19.jpg"
+        
+      },
+      
+      {
+        "id":20,
+        "title":"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "description":"this is for saleh movahedi",
+        "image":"./asset/p20.jpg"
+        
+      }
+
+
+],
+
+
+"Footer":[
+  {
+    "id":1,
+    "h1":"NEWS",
+    "p":"Latest News"
+
+  },
+
+  {
+    "id":2,
+    "h1":"About",
+    "p":"History"
+
+  },
+  {
+    "id":3,
+    "h1":"Campaigns",
+    "p":"Candy Crush KitKat",
+    "p2":"Formula1"
+
+  },
+  {
+    "id":4,
+    "h1":"Contact Us",
+    "p":"Global Contact ",
+    "p2":"Find your region "
+
+  }
+  
+]
+
+
+}
