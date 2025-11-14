@@ -1309,10 +1309,6 @@ body {
     display: block;
   }
 
-  .md\:flex {
-    display: flex;
-  }
-
   .md\:hidden {
     display: none;
   }
@@ -1381,10 +1377,6 @@ body {
 
   .md\:gap-\[500px\] {
     gap: 500px;
-  }
-
-  .md\:gap-\[40px\] {
-    gap: 40px;
   }
 
   .md\:p-\[30px\] {

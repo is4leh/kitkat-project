@@ -18,7 +18,7 @@ menu=res.map((elem)=>{
     return  `
     <a 
   href=${elem.href}
-  class="menu-link md:block  items-center justify-center px-4 py-6 
+  class="menu-link hidden md:block  items-center justify-center px-4 py-6 
          text-white text-center 
          transition-all duration-500 
          rounded-[30px] relative overflow-visible
